@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
+  name: "Park Jongyeon",
   title: "Senior Software Engineer",
   description: "Portfolio website of Ryan Fitzgerald",
   accentColor: "#1d4ed8",
@@ -17,22 +17,22 @@ export const siteConfig = {
       name: "Air-Pollution-Inquiry-Mashup",
       description:
         "Air-Pollution-Inquiry-Mashup",
-      link: "https://github.com/leo5869/Air-Pollution-Inquiry-Mashup",
+      link: "https://github.com/leo5869/Air-Pollution-Information-Inquiry-Mashup",
       skills: ["HTML", "JavaScript"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      name: "Seoul-Library-Search-Mashup",
+      description:"Seoul-Library-Search-Mashup",
+
+      link: "https://github.com/leo5869/Seoul-Library-Search-Mashup",
+      skills: ["HTML", "JavaScript","CSS"],
     },
     {
-      name: "ExtensionKit",
+      name: "seoul PWA",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "PWA",
+      link: "https://github.com/leo5869/PWA",
+      skills: ["HTML", "JavaScript","CSS","Josn],
     },
   ],
   experience: [
