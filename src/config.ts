@@ -12,27 +12,24 @@ export const siteConfig = {
   aboutMe:
     "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
-  projects: [
+    projects: [
     {
       name: "Air-Pollution-Inquiry-Mashup",
-      description:
-        "Air-Pollution-Inquiry-Mashup",
+      description: "Air-Pollution-Inquiry-Mashup",
       link: "https://github.com/leo5869/Air-Pollution-Information-Inquiry-Mashup",
       skills: ["HTML", "JavaScript"],
     },
     {
       name: "Seoul-Library-Search-Mashup",
-      description:"Seoul-Library-Search-Mashup",
-
+      description: "Seoul-Library-Search-Mashup",
       link: "https://github.com/leo5869/Seoul-Library-Search-Mashup",
-      skills: ["HTML", "JavaScript","CSS"],
+      skills: ["HTML", "JavaScript", "CSS"],
     },
     {
       name: "seoul PWA",
-      description:
-        "PWA",
+      description: "PWA",
       link: "https://github.com/leo5869/PWA",
-      skills: ["HTML", "JavaScript","CSS","Josn],
+      skills: ["HTML", "JavaScript", "CSS", "JSON"],
     },
   ],
   experience: [
